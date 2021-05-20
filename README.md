@@ -4,7 +4,7 @@
 
 - 🔨 I’m currently working on [Ansible Arista Demo](https://gitlab.com/ryanmerolle/avd-demo/-/tree/ryan-v2/group_vars)
 
-- 📝 I post at [merolle.net](merolle.net)
+- 📝 I post at [merolle.net](https://merolle.net)
 
 - 💬 Ask me about **Ansible, gitlab-ci, Networks, NetBox, SQL**
 
