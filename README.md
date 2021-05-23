@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate 🖧 Network Engineer focused on DevOps 🚀 approaches</h3>
+<h3 align="center">A passionate 💻 Network Engineer focused on DevOps 🚀 approaches</h3>
 
 - 🔨 I’m currently working on [Ansible Arista Demo](https://gitlab.com/ryanmerolle/avd-demo/-/tree/ryan-v2/group_vars)
 
