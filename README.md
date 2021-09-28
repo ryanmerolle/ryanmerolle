@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate 💻 Network Engineer focused on DevOps 🚀 approaches</h3>
 
-- 🔨 I’m currently working on [Ansible Arista Demo](https://gitlab.com/ryanmerolle/avd-demo/-/tree/ryan-v2/group_vars)
+- 🔨 I’m currently working on [NetBox Ansible Collection](https://github.com/netbox-community/ansible_modules)
 
 - 📝 I post at [merolle.net](https://merolle.net)
 
