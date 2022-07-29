@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate 💻 Network Engineer focused on DevOps 🚀 approaches</h3>
 
-- 🔨 I’m currently working on [NetBox Ansible Collection](https://github.com/netbox-community/ansible_modules)
+- 🔨 I’m currently working on building NetBox Plugins like [NetBox Access Lists Plugin](https://github.com/ryanmerolle/netbox-access-lists)
 
 - 📝 I post at [merolle.net](https://merolle.net)
 
@@ -45,4 +45,3 @@
   ![Juniper Networks](https://img.shields.io/badge/Juniper_Networks-gray?style=flat-square&logoColor=white)
   ![OpenGear](https://img.shields.io/badge/OpenGear-red?style=flat-square&logoColor=white)
   ![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-orange?style=flat-square)
-
